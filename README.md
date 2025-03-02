@@ -5,3 +5,4 @@ It combines OpenCV Image Capture, Flask Website Hosting, PySerial Communication,
 It is designed to run on the Raspberry Pi 0W, which has only 512 MB RAM, and this is also the reason why the code is very basic. 
 
 And Yeah, thats about it ... 
+ 
