@@ -1,4 +1,4 @@
-# nfc_security_system
+# About
 A Basic NFC Access Control + Logging System that I made just as a project for my Science Exhibition in my school ...
 
 It combines OpenCV Image Capture, Flask Website Hosting, PySerial Communication, Tkinter GUI, and playing audio all into one project.
